@@ -54,4 +54,4 @@ const FunctionalComponent = (props) => {
       </div>
     );
   };
-export default BaseHoc(FunctionalComponent);
+export default BaseHoc(FunctionalComponent); 
